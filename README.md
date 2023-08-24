@@ -8,7 +8,7 @@
 npm install
 ```
 
-## Run the JSON-Server backend (http://localhost:3000)
+## Run the JSON-Server backend (http://localhost:3000)/(http://localhost:3000/tasks)
 
 ```
 npm run backend
